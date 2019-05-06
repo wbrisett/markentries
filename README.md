@@ -12,6 +12,7 @@ markentries allows you to use an Excel spreadsheet to maintain glossary entries,
 
 <hr>
 *Note:* 
+
 Associated project here: 
 - [excel2glossary](https://github.com/wbrisett/excel2glossary) 
 
