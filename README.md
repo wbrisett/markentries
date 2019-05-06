@@ -12,7 +12,10 @@ markentries allows you to use an Excel spreadsheet to maintain glossary entries,
 
 <hr>
 *Note:* 
-Associated project here [excel2glossary](https://github.com/wbrisett/excel2glossary) creates glossary entries out of the Excel Spreadsheet for you.
+Associated project here: 
+- [excel2glossary](https://github.com/wbrisett/excel2glossary) 
+
+This script creates glossary entries out of the Excel Spreadsheet for you.
 <hr>
 
 Terms found in the DITA topics use keydefs and are mapped to the actual word minus any invalid XML characters and white space. For example:
